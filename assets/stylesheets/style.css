@@ -1,0 +1,86 @@
+hr{
+	border-top:1px dotted grey;
+	width: 400px;
+}
+.centerkaro{
+	text-align: center;
+}
+
+
+.box1 {
+	background: green;
+	border: 10px solid #add8e6;
+	width: 100px;
+	height:100px;
+}
+
+.outbox {
+	background:black;
+	padding: 3px;
+	border: 10px solid pink;
+	display: inline-block;
+	text-align: center;
+}
+.roundy {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	display: inline-block;
+}
+
+.gol1 {
+	background: green;
+}
+.gol2 {
+	background: #add8e6;
+}
+
+.gol3 {
+	background: black;
+}
+
+.gol4 {
+	background: pink;
+}
+
+.linemei {
+	display: inline-block;
+	padding-right: 10px;
+	padding-top: 3px;
+}
+
+.E2outbox {
+	border: 1px solid black;
+	width: 600px;
+	display: inline-block;
+}
+
+.E2inside1 {
+	width: 180px;
+	height: 100px;
+	margin: 10px;
+	background: grey;
+	display: inline-block;
+}
+
+.E2inside2 {
+	width: 180px;
+	height: 100px;
+	margin: 10px;
+	border: 1px solid black;
+	background: grey;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+
+.E2inside4 {
+	width: 180px;
+	height: 100px;
+	margin: 10px;
+	border: 1px solid black;
+	background: grey;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
